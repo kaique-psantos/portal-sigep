@@ -40,9 +40,7 @@
                     <span class="nav-icon"></span>
                 </label>
                 <a href="index.html" class="logo"><span>SIGEP</span></a>
-                <ul class="menu">
-                    <li><a href="#consulta">Consultar</a></li>
-                </ul>
+            
             </nav>
     
     
@@ -89,8 +87,8 @@
                     <div class="modal-body">
                         <div class="dual-wrapper">
                             <div>
-                                <iframe src="https://cert.makernocode.dev/form.jsp?sys=Y7T&action=openform&formID=55" width="100%"
-                                    height="100%" style="border: 1px solid #D7D8D9; left:0px;"></iframe>
+                                <iframe src="https://cert.makernocode.dev/form.jsp?sys=MXB&action=openform&formID=7192" width="100%"
+                                    height="100%" style="left:0px;"></iframe>
                             </div>
                         </div>
                     </div>
